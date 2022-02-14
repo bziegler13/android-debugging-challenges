@@ -15,4 +15,4 @@ In the adapter code the getItemCount method was non-functional so we fixed that 
 Lastly there was a typo in the model for the movie object which caused the title to not be extracted properly.
 
 
-GIF HERE
+![78D28840-5979-4DB4-8666-103ACC6ED74F](https://user-images.githubusercontent.com/47534734/153802261-f15025d3-a6d0-459d-b8b8-b8d22112df80.GIF)
